@@ -1,0 +1,3 @@
+Finally got 'subl' to launch Sublime. Was kind of a pain.
+
+Still using Google Docs for notes instead.
